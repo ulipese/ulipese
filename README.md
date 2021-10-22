@@ -17,7 +17,7 @@
  
 <div> 
   <a href = "mailto:felipe.sousa4030@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/felipe-sousa-0311491b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/felipe-sousa-0311491b3/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a> 
  
   <!--![Animation](https://media4.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif?cid=ecf05e4735s37nm5xn511o1n5unt3d440808g0shihn82alo&rid=giphy.gif&ct=g)-->
  
