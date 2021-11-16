@@ -12,9 +12,9 @@
 ### 🧠 My skills
 
 <p>
-<img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="40em" width="120em" />
-<img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" height="40em" width="120em" />
-<img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" height="40em" width="140em" />
+<img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="20em" width="80em" />
+<img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" height="40em" width="80em" />
+<img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" height="40em" width="80em" />
 <!--
 <img align="center" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" height="45em" width="120em" />
 <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="45em" width="120em" />
@@ -30,6 +30,7 @@ height="45em" width="140em" />
   <a href="https://github.com/ulipese">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ulipese&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" /> <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulipese&layout=compact&langs_count=7&theme=dracula" />
+  </a>
 </div>
 
 
