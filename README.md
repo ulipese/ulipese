@@ -1,5 +1,4 @@
 # Welcome, I'm Felipe!😁
-<a href="https://www.github.com/ulipese"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="mailto:felipe.sousa4030@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/felipe-sousa-0311491b3/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a> 
 
@@ -23,10 +22,9 @@
 <img align="center" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" 
 height="45em" width="140em" />
 -->
-<!--<img align="center" src="" alt="FIGMA" height="45em" width="120em" />-->
 </p>
 
-### 📚 [certificates](https://drive.google.com/)
+### 📃 [Certificates](https://drive.google.com/)
 
 <div align="center">
   <a href="https://github.com/ulipese">
