@@ -2,7 +2,7 @@
 <a href="mailto:felipe.sousa4030@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/felipe-sousa-0311491b3/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a> 
 
-### 🧑🏽‍💻<n>🇧🇷</n> Sobre mim! | <b>🇺🇸</b> About me!
+### 🧑🏽‍💻🇧🇷 Sobre mim! | 🇺🇸 About me!
 <p>
 🇧🇷 Olá, meu nome é Felipe Sousa, eu tenho 16 anos e estou estudando desenvolvimento web. Tenho conhecimento em HTML, CSS, um pouco de JavaScript e git.
 
