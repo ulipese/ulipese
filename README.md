@@ -5,7 +5,7 @@
 
 ### 💻 About me
 <p>
-Hello, my name is Felipe Sousa, I'm 16 years old and I'm studying web development. I have knowledge with HTML, CSS, a bit of JavaScript and git.
+Hello, my name is Felipe Sousa, I'm 16 years old and I'm studying web development. I have knowledge with HTML, CSS, a bit of JavaScript, Sass (.scss) and git.
 </p>
 
 
