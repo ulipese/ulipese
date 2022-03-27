@@ -1,7 +1,7 @@
 # 😎 Hello!
-<a href="mailto:felipe.sousa4030@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/felipe-sousa-0311491b3/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a> 
-<a href="https://www.codewars.com/users/ulipese/badges"><img src="https://www.codewars.com/users/ulipese/badges/micro" target="_blank" height="28px"></a> 
+<a href="mailto:felipe.sousa4030@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/felipe-sousa-0311491b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<a href="https://www.codewars.com/users/ulipese/badges" target="_blank" ><img src="https://www.codewars.com/users/ulipese/badges/micro" height="28px"></a> 
 
 ### 💻 About me
 <p>
