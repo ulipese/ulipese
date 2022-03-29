@@ -35,8 +35,8 @@ height="28px" />
 
 ### 🔝 The best (and recent) projects
 <ul>
- <li><a href="https://ulipese-users-crud.herokuapp.com/user">Basic CRUD (using MongoDB)</a></li>
- <li><a href="https://ulipese.github.io/advice-generator-app/">Advice Generator</a></li>
+ <li><a href="https://ulipese-users-crud.herokuapp.com/user" target="_blank">Basic CRUD (using MongoDB)</a></li>
+ <li><a href="https://ulipese.github.io/advice-generator-app/" target="blank">Advice Generator</a></li>
  <li><a href="https://ulipese.github.io/tip-calculator-app/">Tip Calculator</a></li>
 </ul>
 
