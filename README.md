@@ -36,12 +36,12 @@ height="28px" />
 ### 🔝 The best (and recent) projects
 <ul>
  <li><a href="https://ulipese-users-crud.herokuapp.com/user" target="_blank">Basic CRUD (using MongoDB)</a></li>
- <li><a href="https://ulipese.github.io/advice-generator-app/" target="blank">Advice Generator</a></li>
- <li><a href="https://ulipese.github.io/tip-calculator-app/">Tip Calculator</a></li>
+ <li><a href="https://ulipese.github.io/advice-generator-app/" target="_blank">Advice Generator</a></li>
+ <li><a href="https://ulipese.github.io/tip-calculator-app/" target="_blank">Tip Calculator</a></li>
 </ul>
 
 <!-- 
-### 📃 [Certificados | Certificates](https://drive.google.com/)
+### 📃 [Certificates](https://drive.google.com/)
 depois coloque os link de um lugar que você deixa seus certificados
 -->
 
