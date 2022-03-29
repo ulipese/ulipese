@@ -17,7 +17,7 @@ Hello, my name is Felipe Sousa, I'm 16 years old and I'm studying web developmen
 <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" height="28px" />
 </p>
 
-#### I'm learning
+#### 📖 I'm learning
 <p>
 <img align="center" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" height="28px" />
 <img align="center" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" height="28px" />
