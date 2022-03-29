@@ -24,6 +24,7 @@ Hello, my name is Felipe Sousa, I'm 16 years old and I'm studying web developmen
 <img align="center" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" height="28px" />
 <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" height="28px" />
 </p>
+
 <!--
 <img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySql" height="28px" />
 <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="28px" />
@@ -31,16 +32,19 @@ Hello, my name is Felipe Sousa, I'm 16 years old and I'm studying web developmen
 <img align="center" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" 
 height="28px" />
 -->
+
 ### 🔝 The best (and recent) projects
 <ul>
  <li><a href="https://ulipese-users-crud.herokuapp.com/user">Basic CRUD (using MongoDB)</a></li>
  <li><a href="https://ulipese.github.io/advice-generator-app/">Advice Generator</a></li>
  <li><a href="https://ulipese.github.io/tip-calculator-app/">Tip Calculator</a></li>
 </ul>
+
 <!-- 
 ### 📃 [Certificados | Certificates](https://drive.google.com/)
 depois coloque os link de um lugar que você deixa seus certificados
 -->
+
 ### ⚙️ GitHub Analytics
 <div align="center">
   <a href="https://github.com/ulipese">
