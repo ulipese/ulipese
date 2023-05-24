@@ -1,7 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1DB954&height=120&section=header"/>
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1DB954&size=35&center=true&vCenter=true&width=1000&lines=Hello👋🏽;I+am+Felipe!)](https://git.io/typing-svg)
-  
+
+## Contact me 📩
 <a href="mailto:ulipese@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/ulipese" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 <a href="https://t.me/ulipese" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
