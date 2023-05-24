@@ -1,4 +1,5 @@
-# 😎 Hello!
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7686A6&size=35&center=true&vCenter=true&width=1000&lines=Hello!;I+am+Felipe!)](https://git.io/typing-svg)
+  
 <a href="mailto:ulipese@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/ulipese" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 <a href="https://t.me/ulipese" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
@@ -11,7 +12,7 @@ Hello, my name is Felipe Sousa, and I'm studying web development. I have knowled
 
 
 ### 🧠 My skills
-<p >
+
 <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="28px" />
 <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" height="28px" />
 <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" height="28px" />
@@ -21,7 +22,7 @@ Hello, my name is Felipe Sousa, and I'm studying web development. I have knowled
 <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" height="28px" />
 <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="28px" />
 <img align="center" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="React" height="28px" />
-</p>
+
 
 <!--
 <img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySql" height="28px" />
