@@ -7,12 +7,6 @@
 <a href="https://t.me/ulipese" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <!-- <a href="https://www.codewars.com/users/ulipese/badges" target="_blank" ><img src="https://www.codewars.com/users/ulipese/badges/micro" height="28px"></a>  -->
 
-### 💻 About me
-<p>
-Hello, my name is Felipe Sousa, and I'm studying web development. I have knowledge with HTML, CSS, a bit of JavaScript, Sass (.scss), git, Node (express) and MongoDB.
-</p>
-
-
 ### 🧠 My skills
 <div>
 <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="28px" />
