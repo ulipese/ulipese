@@ -9,7 +9,6 @@
 <div align="center">
   <strong>Software Engineer @ PagoNxt (Santander)</strong><br/>
   🚀 Specialized in payment systems, distributed architectures & high-availability microservices<br/>
-  🏦 Core developer of Brazil's Pix Automático integration | ISO20022 expert
 </div>
 
 ---
@@ -20,7 +19,7 @@
 public class Felipe {
     String currentRole = "Software Engineer @ PagoNxt (Santander)";
     String[] expertise = {"Payment Systems", "Distributed Systems", "Microservices"};
-    String[] workingOn = {"Pix Automático", "ISO20022 Messaging", "Event-Driven Architecture"};
+    String[] workingOn = {"Pix", "ISO20022 Messaging", "Event-Driven Architecture"};
     String currentlyLearning = "System Design at Scale";
     String location = "São Paulo, Brazil 🇧🇷";
     
@@ -28,7 +27,7 @@ public class Felipe {
         "backend", new String[]{"Java 17+", "Spring Boot", "Kafka", "RabbitMQ"},
         "cloud", new String[]{"AWS (EC2, Lambda, KMS)", "Kubernetes", "Docker"},
         "databases", new String[]{"PostgreSQL", "MySQL", "MongoDB", "Redis"},
-        "observability", new String[]{"Kibana", "Elastic Stack", "Grafana"}
+        "observability", new String[]{"Kibana", "Elastic Stack"}
     );
 }
 ```
