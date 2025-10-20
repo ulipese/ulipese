@@ -34,8 +34,7 @@ public class Felipe {
 
 ## 🎯 What I Do
 
-- 🏗️ **Build scalable microservices** that process thousands of financial transactions
-- 💳 **Develop payment infrastructure** for instant payment systems (Pix)
+- 🏗️ **Contribute to build scalable microservices** that process thousands of financial transactions
 - 🌍 **Contribute to global libraries** used by teams across 4+ countries
 - 🔍 **Ensure system reliability** with comprehensive monitoring and E2E testing
 - ☁️ **Design cloud-native solutions** on AWS with Kubernetes orchestration
