@@ -17,9 +17,8 @@
 
 ```java
 public class Felipe {
-    String currentRole = "Software Engineer @ PagoNxt (Santander)";
+    String currentRole = "Software Engineer @ Itaú Unibanco";
     String[] expertise = {"Payment Systems", "Distributed Systems", "Microservices"};
-    String[] workingOn = {"Pix", "ISO20022 Messaging", "Event-Driven Architecture"};
     String currentlyLearning = "System Design at Scale";
     String location = "São Paulo, Brazil 🇧🇷";
     
