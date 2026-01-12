@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <strong>Software Engineer @ PagoNxt (Santander)</strong><br/>
+  <strong>Software Engineer</strong><br/>
   🚀 Specialized in payment systems, distributed architectures & high-availability microservices<br/>
 </div>
 
